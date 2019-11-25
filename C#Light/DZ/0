@@ -1,0 +1,21 @@
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i;
+            double d;
+            string str;
+            float f;
+            short s;
+            byte b;
+            long l;
+            uint u;
+            decimal dm;
+            bool boolean;
+        }
+    }
+}
